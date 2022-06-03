@@ -1,0 +1,6 @@
+last_name - Bykov;
+first_name - Ivan;
+patronymic - Valentinovich;
+age - 26;
+count_animals - 1;
+future_salary - 3000
